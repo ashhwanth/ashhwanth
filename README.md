@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- :telescope: I’m currently studying MCA from College Of Eengineering Trivandrum.
+- :telescope: I’m currently studying MCA from College Of Engineering Trivandrum.
 
 - :seedling: Tech Enthusiast.
 
