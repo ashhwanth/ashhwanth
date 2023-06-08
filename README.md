@@ -9,7 +9,7 @@
 
 - :zap: I love Coding.
 
-- :mailbox:How to reach me: <a href="www.linkedin.com/in/aswanthharidas">
+- :mailbox:How to reach me: <a href="https://www.linkedin.com/in/aswanthharidas">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a><a href="https://www.instagram.com/ashwanth_haridas/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
